@@ -3,3 +3,7 @@ this is file 2 for testing.
 alsoo
 to keep track
 of files via git
+
+Adding more content 2 
+.,.
+/./
